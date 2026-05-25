@@ -84,7 +84,7 @@ def _fold(line):
     return "\r\n".join(parts)
 
 
-def _build_ics(days, pollen=None):
+def _build_ics(days, pollen=None, past_events=None):
     pollen = pollen or {}
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
@@ -100,6 +100,12 @@ def _build_ics(days, pollen=None):
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:P1D",
     ]
+
+    # Preserved past events (already happened — kept verbatim, re-folded)
+    for block in (past_events or []):
+        for prop in block.splitlines():
+            if prop:
+                lines.append(prop)
 
     for d in days:
         date_str = d["ValidDay"]  # YYYY-MM-DD
@@ -125,7 +131,7 @@ def _build_ics(days, pollen=None):
         hf_emoji  = _POLLEN_EMOJI.get(hf_score, "")
         hf_msg    = re.sub(r"\[/?b\]", "", hf.get("message", ""))
 
-        summary = f"{emoji} {tn}–{tx}°C · {wxtext}"
+        summary = f"{emoji} {tx}°C · {wxtext}"
         if hf_score >= 2:
             summary += f" · {hf_emoji} {hf_label}"
 
