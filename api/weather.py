@@ -4,9 +4,13 @@ import re
 import json
 from datetime import datetime, timezone, timedelta
 
-_URL = (
+_URL_FORECAST = (
     "https://www.weeronline.nl/Europa/Nederland/Amsterdam/"
     "4058223/weersverwachting-14dagen"
+)
+_URL_POLLEN = (
+    "https://www.weeronline.nl/Europa/Nederland/Amsterdam/"
+    "4058223/hooikoorts"
 )
 _HEADERS = {
     "User-Agent": (
@@ -17,15 +21,31 @@ _HEADERS = {
     "Accept-Language": "nl-NL,nl;q=0.9",
 }
 
+_POLLEN_LABEL = {0: "", 1: "Laag", 2: "Matig", 3: "Hoog", 4: "Zeer hoog", 5: "Extreem"}
+_POLLEN_EMOJI = {0: "", 1: "", 2: "🌾", 3: "🤧", 4: "🤧🤧", 5: "🤧🤧🤧"}
 
-def _fetch_forecast():
-    req = urllib.request.Request(_URL, headers=_HEADERS)
+
+def _fetch_next_data(url):
+    req = urllib.request.Request(url, headers=_HEADERS)
     with urllib.request.urlopen(req, timeout=15) as r:
         html = r.read().decode("utf-8", errors="replace")
     scripts = re.findall(r"<script[^>]*>(.*?)</script>", html, re.DOTALL)
-    payload = max(scripts, key=len)
-    data = json.loads(payload)
+    return json.loads(max(scripts, key=len))
+
+
+def _fetch_forecast():
+    data = _fetch_next_data(_URL_FORECAST)
     return data["props"]["pageProps"]["forecastData"]["Fullday"]["Dorp"]
+
+
+def _fetch_pollen():
+    """Return {date_str: hayfever_dict} for the next 7 days."""
+    data = _fetch_next_data(_URL_POLLEN)
+    result = {}
+    for d in data["props"]["pageProps"]["forecastData"]:
+        date = d["intervalStart"]["formatted"][:10]  # YYYY-MM-DD
+        result[date] = d["digits"]["health"]["hayFever"]
+    return result
 
 
 def _icon_emoji(code):
@@ -64,7 +84,8 @@ def _fold(line):
     return "\r\n".join(parts)
 
 
-def _build_ics(days):
+def _build_ics(days, pollen=None):
+    pollen = pollen or {}
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
@@ -97,7 +118,16 @@ def _build_ics(days):
         hum     = d.get("RHRH", "")
         feels   = d.get("FEELS_LIKE", "")
 
+        # Hayfever — available for first 7 days
+        hf        = pollen.get(date_str, {})
+        hf_score  = hf.get("maxTotal", 0) or 0
+        hf_label  = _POLLEN_LABEL.get(hf_score, "")
+        hf_emoji  = _POLLEN_EMOJI.get(hf_score, "")
+        hf_msg    = re.sub(r"\[/?b\]", "", hf.get("message", ""))
+
         summary = f"{emoji} {tn}–{tx}°C · {wxtext}"
+        if hf_score >= 2:
+            summary += f" · {hf_emoji} {hf_label}"
 
         desc_lines = [
             wxtext,
@@ -110,6 +140,10 @@ def _build_ics(days):
             desc_lines.append(f"☀️ UV-index: {uv}")
         if hum:
             desc_lines.append(f"💧 Luchtvochtigheid: {hum}%")
+        if hf_score >= 1:
+            desc_lines.append(f"🌾 Hooikoorts: {hf_label} ({hf_score}/5)")
+            if hf_msg:
+                desc_lines.append(f"   {hf_msg}")
         desc_lines.append("📍 Bron: weeronline.nl")
 
         description = "\\n".join(desc_lines)
@@ -135,8 +169,9 @@ def _build_ics(days):
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
-            days = _fetch_forecast()
-            body = _build_ics(days).encode("utf-8")
+            days   = _fetch_forecast()
+            pollen = _fetch_pollen()
+            body   = _build_ics(days, pollen).encode("utf-8")
             self.send_response(200)
             self.send_header("Content-Type", "text/calendar; charset=utf-8")
             self.send_header("Content-Disposition", 'inline; filename="amsterdam-weather.ics"')
