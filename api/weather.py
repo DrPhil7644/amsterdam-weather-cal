@@ -161,7 +161,7 @@ def _build_ics(days, pollen=None, past_events=None):
             desc_lines.append(line)
         desc_lines.append("📍 weeronline.nl")
 
-        description = "\\n".join(desc_lines)
+        description = "\n".join(desc_lines)
 
         lines += [
             "BEGIN:VEVENT",
