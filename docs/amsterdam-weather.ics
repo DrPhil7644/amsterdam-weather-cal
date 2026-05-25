@@ -12,36 +12,35 @@ BEGIN:VEVENT
 UID:2026-05-25-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-SUMMARY:☀️ 15–27°C · Stralend zonnig weer · 🤧 Hoog
+SUMMARY:☀️ 27°C · Stralend zonnig weer · 🤧 Hoog
 DESCRIPTION:Stralend zonnig weer\\n🌡️ 15°C – 27°C  (voelt als 27°
  C)\\n💨 Wind: ONO 12 km/h\\n☀️ UV-index: 6\\n💧 Luchtvochtigheid: 
  56%\\n🌾 Hooikoorts: Hoog (3/5)\\n   Grote kans op klachten als je gevoe
  lig bent voor: grassen.\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-26-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-SUMMARY:☀️ 17–31°C · Stralend zonnig weer · 🤧🤧 Zeer hoog
+SUMMARY:☀️ 31°C · Stralend zonnig weer · 🤧🤧 Zeer hoog
 DESCRIPTION:Stralend zonnig weer\\n🌡️ 17°C – 31°C  (voelt als 30°
  C)\\n💨 Wind: NNW 12 km/h\\n☀️ UV-index: 6\\n💧 Luchtvochtigheid: 
  54%\\n🌾 Hooikoorts: Zeer hoog (4/5)\\n   Zeer grote kans op klachten al
  s je gevoelig bent voor: grassen.\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:⛅ 12–20°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoo
- g
+SUMMARY:⛅ 20°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 12°C – 20°C
    (voelt als 16°C)\\n💨 Wind: NO 22 km/h\\n🌧️ Neerslag: 0.5 mm\\n
  ☀️ UV-index: 6\\n💧 Luchtvochtigheid: 66%\\n🌾 Hooikoorts: Hoog (3
@@ -49,29 +48,28 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 12°C – 20°C
   Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-28-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:☀️ 9–24°C · Stralend zonnig weer · 🤧 Hoog
+SUMMARY:☀️ 24°C · Stralend zonnig weer · 🤧 Hoog
 DESCRIPTION:Stralend zonnig weer\\n🌡️ 9°C – 24°C  (voelt als 17°C
  )\\n💨 Wind: O 16 km/h\\n☀️ UV-index: 6\\n💧 Luchtvochtigheid: 58%
  \\n🌾 Hooikoorts: Hoog (3/5)\\n   Grote kans op klachten als je gevoelig
   bent voor: grassen.\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-29-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:🌤️ 14–24°C · Geregeld zon\, maar ook enkele wolken · 🤧
-  Hoog
+SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 14°C – 24°C
    (voelt als 25°C)\\n💨 Wind: W 19 km/h\\n🌧️ Neerslag: 0.2 mm\\n
  ☀️ UV-index: 6\\n💧 Luchtvochtigheid: 68%\\n🌾 Hooikoorts: Hoog (3
@@ -79,15 +77,14 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 14°C – 24°C
   Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-30-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-SUMMARY:🌤️ 13–22°C · Geregeld zon\, maar ook enkele wolken · 🤧
-  Hoog
+SUMMARY:🌤️ 22°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 13°C – 22°C
    (voelt als 18°C)\\n💨 Wind: NW 14 km/h\\n🌧️ Neerslag: 0.4 mm\\n
  ☀️ UV-index: 5\\n💧 Luchtvochtigheid: 72%\\n🌾 Hooikoorts: Hoog (3
@@ -95,14 +92,14 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\\n🌡️ 13°C – 22°C
   Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-31-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:🌦️ 14–22°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 14°C – 22°C  
  (voelt als 18°C)\\n💨 Wind: W 17 km/h\\n🌧️ Neerslag: 1.3 mm\\n☀
  ️ UV-index: 4\\n💧 Luchtvochtigheid: 74%\\n🌾 Hooikoorts: Laag (1/5)
@@ -110,124 +107,124 @@ DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 14°C – 22°C
  .\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-01-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:🌦️ 14–21°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 14°C – 21°C  
  (voelt als 18°C)\\n💨 Wind: W 21 km/h\\n🌧️ Neerslag: 1.2 mm\\n☀
  ️ UV-index: 4\\n💧 Luchtvochtigheid: 76%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-02-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:🌧️ 14–21°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 14°C – 21°C  
  (voelt als 16°C)\\n💨 Wind: WZW 22 km/h\\n🌧️ Neerslag: 3.5 mm\\n
  ☀️ UV-index: 2\\n💧 Luchtvochtigheid: 84%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-03-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:🌧️ 13–19°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 13°C – 19°C  
  (voelt als 16°C)\\n💨 Wind: W 23 km/h\\n🌧️ Neerslag: 3.5 mm\\n☀
  ️ UV-index: 3\\n💧 Luchtvochtigheid: 77%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-04-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:🌧️ 12–18°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 18°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 18°C  
  (voelt als 15°C)\\n💨 Wind: W 22 km/h\\n🌧️ Neerslag: 3.8 mm\\n☀
  ️ UV-index: 2\\n💧 Luchtvochtigheid: 78%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-05-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-SUMMARY:🌧️ 12–18°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 18°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 18°C  
  (voelt als 15°C)\\n💨 Wind: W 21 km/h\\n🌧️ Neerslag: 3.1 mm\\n☀
  ️ UV-index: 3\\n💧 Luchtvochtigheid: 76%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-06-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-SUMMARY:🌦️ 12–19°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 19°C  
  (voelt als 15°C)\\n💨 Wind: WZW 20 km/h\\n🌧️ Neerslag: 1.8 mm\\n
  ☀️ UV-index: 3\\n💧 Luchtvochtigheid: 75%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-07-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-SUMMARY:🌧️ 12–19°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 19°C  
  (voelt als 15°C)\\n💨 Wind: W 20 km/h\\n🌧️ Neerslag: 3.5 mm\\n☀
  ️ UV-index: 3\\n💧 Luchtvochtigheid: 78%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-08-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-SUMMARY:🌦️ 12–19°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 19°C  
  (voelt als 15°C)\\n💨 Wind: WNW 20 km/h\\n🌧️ Neerslag: 2.1 mm\\n
  ☀️ UV-index: 3\\n💧 Luchtvochtigheid: 77%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-09-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-SUMMARY:🌦️ 12–18°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 18°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\\n🌡️ 12°C – 18°C  
  (voelt als 15°C)\\n💨 Wind: WNW 18 km/h\\n🌧️ Neerslag: 1.2 mm\\n
  ☀️ UV-index: 3\\n💧 Luchtvochtigheid: 80%\\n📍 Bron: weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260525T143154Z
-LAST-MODIFIED:20260525T143154Z
+DTSTAMP:20260525T145733Z
+LAST-MODIFIED:20260525T145733Z
 END:VEVENT
 END:VCALENDAR
