@@ -113,16 +113,16 @@ def _build_ics(days, pollen=None, past_events=None):
         dt_start = f"{y}{mo}{dy}"
         dt_end = (datetime(int(y), int(mo), int(dy)) + timedelta(days=1)).strftime("%Y%m%d")
 
-        emoji   = _icon_emoji(d.get("WXCO_WOL", "s0000000"))
-        tn      = d.get("TNTN", "?")
-        tx      = d.get("TXTX", "?")
-        rain    = d.get("RRRR") or 0
-        wind_d  = d.get("DDDD", "")
-        wind_k  = d.get("FFFF_KM", 0)
-        uv      = d.get("UVINDEX", "")
-        wxtext  = d.get("WXCO_TEXT", "")
-        hum     = d.get("RHRH", "")
-        feels   = d.get("FEELS_LIKE", "")
+        emoji       = _icon_emoji(d.get("WXCO_WOL", "s0000000"))
+        tn          = d.get("TNTN", "?")
+        tx          = d.get("TXTX", "?")
+        rain        = d.get("RRRR") or 0
+        rain_chance = d.get("RRRK") or 0
+        wind_d      = d.get("DDDD", "")
+        wind_bft    = d.get("FFFF_BFT", 0)
+        uv          = d.get("UVINDEX", "")
+        wxtext      = d.get("WXCO_TEXT", "")
+        feels       = d.get("FEELS_LIKE", "")
 
         # Hayfever — available for first 7 days
         hf        = pollen.get(date_str, {})
@@ -130,6 +130,12 @@ def _build_ics(days, pollen=None, past_events=None):
         hf_label  = _POLLEN_LABEL.get(hf_score, "")
         hf_emoji  = _POLLEN_EMOJI.get(hf_score, "")
         hf_msg    = re.sub(r"\[/?b\]", "", hf.get("message", ""))
+        # Extract just the plant names from the message
+        hf_plants = ""
+        if hf_msg:
+            m = re.search(r"voor:\s*(.+?)\.?\s*$", hf_msg)
+            if m:
+                hf_plants = m.group(1).strip()
 
         summary = f"{emoji} {tx}°C · {wxtext}"
         if hf_score >= 2:
@@ -137,20 +143,23 @@ def _build_ics(days, pollen=None, past_events=None):
 
         desc_lines = [
             wxtext,
-            f"🌡️ {tn}°C – {tx}°C  (voelt als {feels}°C)",
-            f"💨 Wind: {wind_d} {wind_k} km/h",
+            "",
+            f"🌡️ {tx}°C (voelt als {feels}°C)",
+            f"💨 Wind: {wind_d} {wind_bft} bft",
         ]
-        if rain > 0:
-            desc_lines.append(f"🌧️ Neerslag: {rain:.1f} mm")
+        if rain_chance > 0:
+            if rain > 0:
+                desc_lines.append(f"🌧️ Neerslag: {rain:.1f}mm ({rain_chance}%)")
+            else:
+                desc_lines.append(f"🌦️ Neerslagkans: {rain_chance}%")
         if uv:
             desc_lines.append(f"☀️ UV-index: {uv}")
-        if hum:
-            desc_lines.append(f"💧 Luchtvochtigheid: {hum}%")
         if hf_score >= 1:
-            desc_lines.append(f"🌾 Hooikoorts: {hf_label} ({hf_score}/5)")
-            if hf_msg:
-                desc_lines.append(f"   {hf_msg}")
-        desc_lines.append("📍 Bron: weeronline.nl")
+            line = f"🌾 Hooikoorts: {hf_label}"
+            if hf_plants:
+                line += f" — {hf_plants}"
+            desc_lines.append(line)
+        desc_lines.append("📍 weeronline.nl")
 
         description = "\\n".join(desc_lines)
 
