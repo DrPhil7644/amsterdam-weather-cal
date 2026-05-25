@@ -4,14 +4,20 @@ import re
 import json
 from datetime import datetime, timezone, timedelta
 
-_URL_FORECAST = (
-    "https://www.weeronline.nl/Europa/Nederland/Amsterdam/"
-    "4058223/weersverwachting-14dagen"
-)
-_URL_POLLEN = (
-    "https://www.weeronline.nl/Europa/Nederland/Amsterdam/"
-    "4058223/hooikoorts"
-)
+CITIES = {
+    "amsterdam": {
+        "name":      "Amsterdam",
+        "url_base":  "https://www.weeronline.nl/Europa/Nederland/Amsterdam/4058223",
+    },
+    "rotterdam": {
+        "name":      "Rotterdam",
+        "url_base":  "https://www.weeronline.nl/Europa/Nederland/Rotterdam/4057931",
+    },
+}
+
+# defaults (kept for backwards-compat with the Vercel handler)
+_URL_FORECAST = CITIES["amsterdam"]["url_base"] + "/weersverwachting-14dagen"
+_URL_POLLEN   = CITIES["amsterdam"]["url_base"] + "/hooikoorts"
 _HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -33,14 +39,16 @@ def _fetch_next_data(url):
     return json.loads(max(scripts, key=len))
 
 
-def _fetch_forecast():
-    data = _fetch_next_data(_URL_FORECAST)
+def _fetch_forecast(city="amsterdam"):
+    url = CITIES[city]["url_base"] + "/weersverwachting-14dagen"
+    data = _fetch_next_data(url)
     return data["props"]["pageProps"]["forecastData"]["Fullday"]["Dorp"]
 
 
-def _fetch_pollen():
+def _fetch_pollen(city="amsterdam"):
     """Return {date_str: hayfever_dict} for the next 7 days."""
-    data = _fetch_next_data(_URL_POLLEN)
+    url = CITIES[city]["url_base"] + "/hooikoorts"
+    data = _fetch_next_data(url)
     result = {}
     for d in data["props"]["pageProps"]["forecastData"]:
         date = d["intervalStart"]["formatted"][:10]  # YYYY-MM-DD
@@ -84,18 +92,19 @@ def _fold(line):
     return "\r\n".join(parts)
 
 
-def _build_ics(days, pollen=None, past_events=None):
+def _build_ics(days, pollen=None, past_events=None, city="amsterdam"):
     pollen = pollen or {}
+    city_name = CITIES[city]["name"]
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//Weeronline Amsterdam 14-daagse//NL",
+        f"PRODID:-//Weeronline {city_name} 14-daagse//NL",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:Weer Amsterdam \U0001f326️",
-        "X-WR-CALDESC:14-daagse weersverwachting voor Amsterdam (weeronline.nl)",
+        f"X-WR-CALNAME:Weer {city_name} \U0001f326️",
+        f"X-WR-CALDESC:14-daagse weersverwachting voor {city_name} (weeronline.nl)",
         "X-WR-TIMEZONE:Europe/Amsterdam",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:P1D",
@@ -165,7 +174,7 @@ def _build_ics(days, pollen=None, past_events=None):
 
         lines += [
             "BEGIN:VEVENT",
-            f"UID:{date_str}-amsterdam-weeronline@cal",
+            f"UID:{date_str}-{city}-weeronline@cal",
             f"DTSTART;VALUE=DATE:{dt_start}",
             f"DTEND;VALUE=DATE:{dt_end}",
             f"SUMMARY:{_escape(summary)}",

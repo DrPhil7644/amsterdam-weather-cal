@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Fetch weeronline forecast, merge with saved past events, write ICS."""
+"""Fetch weeronline forecasts for all cities, merge with past events, write ICS files."""
 import sys, os, re
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(__file__))
-from api.weather import _fetch_forecast, _fetch_pollen, _build_ics
+from api.weather import CITIES, _fetch_forecast, _fetch_pollen, _build_ics
 
-OUT = os.path.join(os.path.dirname(__file__), "docs", "amsterdam-weather.ics")
+DOCS = os.path.join(os.path.dirname(__file__), "docs")
 
 
 def _read_past_events(path):
@@ -15,7 +15,6 @@ def _read_past_events(path):
         return []
     with open(path, "r", encoding="utf-8") as f:
         content = f.read()
-    # Unfold RFC 5545 continuation lines before parsing
     content = re.sub(r"\r\n[ \t]", "", content)
     today = datetime.now().strftime("%Y%m%d")
     past = []
@@ -26,12 +25,16 @@ def _read_past_events(path):
     return past
 
 
-past   = _read_past_events(OUT)
-ics    = _build_ics(_fetch_forecast(), _fetch_pollen(), past_events=past)
+for city in CITIES:
+    out = os.path.join(DOCS, f"{city}-weather.ics")
+    past   = _read_past_events(out)
+    ics    = _build_ics(_fetch_forecast(city), _fetch_pollen(city),
+                        past_events=past, city=city)
 
-with open(OUT, "w", encoding="utf-8") as f:
-    f.write(ics)
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(ics)
 
-total   = len(re.findall(r"BEGIN:VEVENT", ics))
-current = total - len(past)
-print(f"Written {total} events ({len(past)} past + {current} new) → {OUT}", file=sys.stderr)
+    total   = len(re.findall(r"BEGIN:VEVENT", ics))
+    current = total - len(past)
+    print(f"{city}: {total} events ({len(past)} past + {current} new) → {out}",
+          file=sys.stderr)
