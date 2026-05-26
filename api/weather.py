@@ -13,6 +13,10 @@ CITIES = {
         "name":      "Rotterdam",
         "url_base":  "https://www.weeronline.nl/Europa/Nederland/Rotterdam/4057931",
     },
+    "alkmaar": {
+        "name":      "Alkmaar",
+        "url_base":  "https://www.weeronline.nl/Europa/Nederland/Alkmaar/4058218",
+    },
 }
 
 # defaults (kept for backwards-compat with the Vercel handler)
