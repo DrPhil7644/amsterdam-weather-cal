@@ -114,8 +114,8 @@ def _build_ics(days, pollen=None, past_events=None, city="amsterdam"):
         f"X-WR-CALNAME:Weer {city_name} \U0001f326️",
         f"X-WR-CALDESC:14-daagse weersverwachting voor {city_name} (weeronline.nl)",
         "X-WR-TIMEZONE:Europe/Amsterdam",
-        "REFRESH-INTERVAL;VALUE=DURATION:P1D",
-        "X-PUBLISHED-TTL:P1D",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H",
     ]
 
     # Preserved past events (already happened — kept verbatim, re-folded)
