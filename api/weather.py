@@ -39,7 +39,7 @@ _HEADERS = {
     "Accept-Language": "nl-NL,nl;q=0.9",
 }
 
-_POLLEN_LABEL = {0: "", 1: "Laag", 2: "Matig", 3: "Hoog", 4: "Zeer hoog", 5: "Extreem"}
+_POLLEN_LABEL = {0: "Geen", 1: "Laag", 2: "Matig", 3: "Hoog", 4: "Zeer hoog", 5: "Extreem"}
 _POLLEN_EMOJI = {0: "", 1: "", 2: "🌾", 3: "🤧", 4: "🤧🤧", 5: "🤧🤧🤧"}
 
 
@@ -175,9 +175,11 @@ def _build_ics(days, pollen=None, past_events=None, city="amsterdam"):
                 desc_lines.append(f"🌦️ Neerslagkans: {rain_chance}%")
         if uv:
             desc_lines.append(f"☀️ UV-index: {uv}")
-        if hf_score >= 1:
-            line = f"🌾 Hooikoorts: {hf_label}"
-            if hf_plants:
+        month = int(date_str.split("-")[1])
+        in_season = 3 <= month <= 8
+        if hf_score >= 1 or (in_season and date_str in pollen):
+            line = f"🌾 Hooikoorts: {_POLLEN_LABEL.get(hf_score, 'Geen')}"
+            if hf_plants and hf_score >= 1:
                 line += f" — {hf_plants}"
             desc_lines.append(line)
         desc_lines.append("📍 weeronline.nl")
