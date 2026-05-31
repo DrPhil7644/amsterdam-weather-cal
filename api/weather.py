@@ -25,6 +25,10 @@ CITIES = {
         "name":      "Schagen",
         "url_base":  "https://www.weeronline.nl/Europa/Nederland/Schagen/4058349",
     },
+    "leiden": {
+        "name":      "Leiden",
+        "url_base":  "https://www.weeronline.nl/Europa/Nederland/Leiden/4057877",
+    },
 }
 
 # defaults (kept for backwards-compat with the Vercel handler)

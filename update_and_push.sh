@@ -4,7 +4,7 @@ cd "$(dirname "$0")"
 
 python3 generate_ics.py
 
-git add docs/amsterdam-weather.ics
+git add docs/
 
 # Only commit and push if something changed
 if git diff --staged --quiet; then
