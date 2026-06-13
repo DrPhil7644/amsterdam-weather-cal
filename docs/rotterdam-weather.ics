@@ -262,12 +262,12 @@ DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:☁️ 17°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 17°C (voelt a
- ls 16°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 0.3mm (10%)\n☀️ UV-
- index: 6\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
+ ls 16°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-ind
+ ex: 7\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-14-rotterdam-weeronline@cal
@@ -275,12 +275,12 @@ DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:☁️ 17°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 17°C (voelt a
- ls 15°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 0.6mm (15%)\n☀️ UV-i
- ndex: 3\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
+ ls 15°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-i
+ ndex: 5\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-15-rotterdam-weeronline@cal
@@ -288,12 +288,12 @@ DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:⛅ 18°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 18°C (voelt a
- ls 15°C)\n💨 Wind: NW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
-  5\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
+ ls 15°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.1mm (5%)\n☀️ UV-in
+ dex: 4\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-16-rotterdam-weeronline@cal
@@ -301,154 +301,155 @@ DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:☁️ 22°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
- ls 17°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-i
+ ls 17°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-i
  ndex: 4\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-17-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 25°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-
- index: 5\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
+SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
+  24°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-in
+ dex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-18-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:☀️ 28°C · Stralend zonnig weer · 🌾 Matig
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 28°C (voelt als 28°C)\n💨 W
- ind: ZW 3 bft\n🌧️ Neerslag: 0.3mm (10%)\n☀️ UV-index: 6\n🌾 Hoo
- ikoorts: Matig — grassen\n📍 weeronline.nl
+SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken · 🌾 Mati
+ g
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.3mm (5%)\n☀️ UV-i
+ ndex: 6\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-19-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:🌤️ 28°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 28°C (voelt a
- ls 29°C)\n💨 Wind: ZW 2 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-i
- ndex: 5\n📍 weeronline.nl
+SUMMARY:🌦️ 28°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 28°C (voelt als
+  30°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.8mm (75%)\n☀️ UV-in
+ dex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-20-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:🌤️ 29°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 29°C (voelt a
- ls 30°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-i
- ndex: 5\n📍 weeronline.nl
+SUMMARY:🌦️ 28°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 28°C (voelt als
+  29°C)\n💨 Wind: WZW 2 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-in
+ dex: 5\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-21-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:🌤️ 29°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 29°C (voelt a
- ls 30°C)\n💨 Wind: N 2 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-in
- dex: 5\n📍 weeronline.nl
+SUMMARY:🌦️ 27°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 27°C (voelt als
+  28°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-22-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:🌦️ 27°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 27°C (voelt als
-  27°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 2.6mm (75%)\n☀️ UV-in
- dex: 5\n📍 weeronline.nl
+SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
+ ls 27°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-23-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
-  25°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 2.3mm (70%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 25°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-24-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:⛅ 23°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
- ls 25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-i
- ndex: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
+  25°C)\n💨 Wind: N 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-inde
+ x: 5\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-in
- dex: 3\n📍 weeronline.nl
+SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 25°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-26-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-ind
- ex: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-ind
+ ex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-27-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 1.2mm (40%)\n☀️ UV-inde
- x: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260612T080005Z
-LAST-MODIFIED:20260612T080005Z
+DTSTAMP:20260613T001759Z
+LAST-MODIFIED:20260613T001759Z
 END:VEVENT
 END:VCALENDAR
