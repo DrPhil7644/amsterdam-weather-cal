@@ -261,14 +261,14 @@ BEGIN:VEVENT
 UID:2026-06-13-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:☁️ 17°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 17°C (voelt a
- ls 16°C)\n💨 Wind: WNW 5 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-
- index: 6\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+SUMMARY:☁️ 17°C · Uitgestrekte wolkenvelden\, amper zon · 🌾 Matig
+DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 17°C (voelt a
+ ls 16°C)\n💨 Wind: WNW 5 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-i
+ ndex: 6\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-14-amsterdam-weeronline@cal
@@ -276,12 +276,12 @@ DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:☁️ 17°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 17°C (voelt a
- ls 15°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-
+ ls 15°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-
  index: 5\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-15-amsterdam-weeronline@cal
@@ -289,12 +289,12 @@ DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:⛅ 18°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 18°C (voelt a
- ls 15°C)\n💨 Wind: WNW 3 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Mati
- g — grassen\n📍 weeronline.nl
+ ls 15°C)\n💨 Wind: NW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
+  5\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-16-amsterdam-weeronline@cal
@@ -302,12 +302,12 @@ DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:☁️ 22°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
- ls 16°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-i
- ndex: 4\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
+ ls 16°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-
+ index: 4\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-17-amsterdam-weeronline@cal
@@ -315,26 +315,26 @@ DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.7mm (55%)\n☀️ UV-in
+  24°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.9mm (60%)\n☀️ UV-in
  dex: 4\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-18-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken · 🌾 Mati
+SUMMARY:🌤️ 23°C · Geregeld zon\, maar ook enkele wolken · 🌾 Mati
  g
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
  ls 25°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.3mm (5%)\n☀️ UV-i
  ndex: 6\n🌾 Hooikoorts: Matig — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-19-amsterdam-weeronline@cal
@@ -342,12 +342,12 @@ DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:🌦️ 28°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 28°C (voelt als
-  29°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-in
+  30°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-in
  dex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-20-amsterdam-weeronline@cal
@@ -355,12 +355,12 @@ DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:🌦️ 27°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 27°C (voelt als
-  28°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-in
+  28°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
  dex: 5\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-21-amsterdam-weeronline@cal
@@ -372,21 +372,21 @@ DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 26°C (voelt als
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-22-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
   26°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 1.7mm (55%)\n☀️ UV-in
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-23-amsterdam-weeronline@cal
@@ -398,8 +398,8 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-24-amsterdam-weeronline@cal
@@ -411,8 +411,8 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
  index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25-amsterdam-weeronline@cal
@@ -424,8 +424,8 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
  index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-26-amsterdam-weeronline@cal
@@ -437,8 +437,8 @@ DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-27-amsterdam-weeronline@cal
@@ -450,7 +450,20 @@ DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260613T001758Z
-LAST-MODIFIED:20260613T001758Z
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-28-amsterdam-weeronline@cal
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
+  24°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260613T081149Z
+LAST-MODIFIED:20260613T081149Z
 END:VEVENT
 END:VCALENDAR
