@@ -393,132 +393,131 @@ BEGIN:VEVENT
 UID:2026-06-23-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:🌤️ 28°C · Geregeld zon\, maar ook enkele wolken · 🌾 Mati
- g
+SUMMARY:⛅ 28°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 28°C (voelt a
- ls 28°C)\n💨 Wind: ONO 2 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Mati
+ ls 29°C)\n💨 Wind: ONO 2 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Mati
  g — grassen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-24-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:☀️ 33°C · Stralend zonnig weer · 🌾 Matig
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 33°C (voelt als 36°C)\n💨 W
- ind: NNW 3 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Matig — grassen\n
- 📍 weeronline.nl
+SUMMARY:☀️ 34°C · Stralend zonnig weer · 🌾 Matig
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 34°C (voelt als 37°C)\n💨 W
+ ind: N 3 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Matig — grassen\n📍
+  weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:☀️ 32°C · Stralend zonnig weer
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 32°C (voelt als 34°C)\n💨 W
- ind: ONO 4 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Laag — grassen\, we
- egbree\n📍 weeronline.nl
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 32°C (voelt als 36°C)\n💨 W
+ ind: NO 4 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Laag — grassen\, wee
+ gbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-26-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:☀️ 34°C · Stralend zonnig weer
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 34°C (voelt als 36°C)\n💨 W
- ind: WZW 3 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag — grassen\, we
- egbree\n📍 weeronline.nl
+SUMMARY:🌤️ 37°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 37°C (voelt a
+ ls 39°C)\n💨 Wind: ZZO 3 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Laag
+  — grassen\, weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-27-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:🌦️ 29°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 29°C (voelt als
-  31°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-in
- dex: 4\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+SUMMARY:🌤️ 32°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 32°C (voelt a
+ ls 34°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.6mm (15%)\n☀️ UV-i
+ ndex: 6\n🌾 Hooikoorts: Laag — grassen\, weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-28-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:🌦️ 28°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 28°C (voelt als
-  29°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.1mm (40%)\n☀️ UV-in
- dex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+SUMMARY:🌧️ 29°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 29°C (voelt als
+  30°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 3.3mm (80%)\n☀️ UV-in
+ dex: 6\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-29-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:🌧️ 26°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 26°C (voelt als
-  27°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 3.1mm (80%)\n☀️ UV-ind
- ex: 5\n📍 weeronline.nl
+SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
+  26°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 1.2mm (45%)\n☀️ UV-in
+ dex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-30-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 25°C)\n💨 Wind: N 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: N 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-inde
+ x: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-01-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-ind
- ex: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 1.2mm (40%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-02-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-ind
- ex: 4\n📍 weeronline.nl
+SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 25°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-03-amsterdam-weeronline@cal
@@ -526,12 +525,12 @@ DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-ind
+  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.2mm (40%)\n☀️ UV-ind
  ex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-04-amsterdam-weeronline@cal
@@ -539,12 +538,12 @@ DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.2mm (40%)\n☀️ UV-ind
+ ex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-05-amsterdam-weeronline@cal
@@ -552,37 +551,50 @@ DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.9mm (60%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 3.0mm (75%)\n☀️ UV-ind
+ ex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-06-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+SUMMARY:⛅ 23°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
+ ls 25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-07-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
-SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-i
- ndex: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
+  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260622T080044Z
-LAST-MODIFIED:20260622T080044Z
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-08-amsterdam-weeronline@cal
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:☁️ 23°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
+ ls 25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-i
+ ndex: 3\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260623T080004Z
+LAST-MODIFIED:20260623T080004Z
 END:VEVENT
 END:VCALENDAR
