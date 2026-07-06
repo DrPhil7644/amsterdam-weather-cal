@@ -508,14 +508,14 @@ BEGIN:VEVENT
 UID:2026-07-06-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:☁️ 20°C · Uitgestrekte wolkenvelden\, amper zon
-DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 20°C (voelt a
- ls 20°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-
- index: 4\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+SUMMARY:☁️ 22°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
+ ls 24°C)\n💨 Wind: W 5 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 
+ 7\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-07-schagen-weeronline@cal
@@ -523,167 +523,193 @@ DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:☁️ 21°C · Geregeld zon\, maar ook enkele wolken
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 21°C (voelt a
- ls 23°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-i
- ndex: 5\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+ ls 23°C)\n💨 Wind: WNW 5 bft\n🌧️ Neerslag: 0.1mm (5%)\n☀️ UV-i
+ ndex: 7\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-08-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-SUMMARY:⛅ 22°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
- ls 24°C)\n💨 Wind: WNW 3 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag
-  — weegbree\n📍 weeronline.nl
+SUMMARY:☁️ 23°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
+ ls 24°C)\n💨 Wind: W 3 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag 
+ — weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-09-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 25°C)\n💨 Wind: N 3 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Laag 
- — weegbree\n📍 weeronline.nl
+SUMMARY:☀️ 26°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 26°C (voelt als 27°C)\n💨 W
+ ind: NO 3 bft\n☀️ UV-index: 7\n🌾 Hooikoorts: Laag — weegbree\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-10-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 27°C)\n💨 Wind: NNO 3 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Laag
-  — weegbree\n📍 weeronline.nl
+SUMMARY:☀️ 27°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 27°C (voelt als 27°C)\n💨 W
+ ind: NO 3 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag — weegbree\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-11-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:☀️ 26°C · Stralend zonnig weer
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 26°C (voelt als 27°C)\n💨 W
- ind: NNO 3 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-index: 5\n📍 we
- eronline.nl
+SUMMARY:☀️ 27°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 27°C (voelt als 27°C)\n💨 W
+ ind: NO 4 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag — weegbree\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-12-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
- ls 26°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-
- index: 4\n📍 weeronline.nl
+SUMMARY:☀️ 27°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 27°C (voelt als 28°C)\n💨 W
+ ind: NO 4 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag — weegbree\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-13-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 26°C)\n💨 Wind: NNO 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-
- index: 4\n📍 weeronline.nl
+SUMMARY:☀️ 28°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 28°C (voelt als 28°C)\n💨 W
+ ind: NO 3 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-index: 6\n📍 wee
+ ronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-14-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:⛅ 25°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
- ls 26°C)\n💨 Wind: N 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+SUMMARY:🌤️ 28°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 28°C (voelt a
+ ls 28°C)\n💨 Wind: NO 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-i
+ ndex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-15-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:⛅ 25°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
- ls 26°C)\n💨 Wind: N 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-in
- dex: 5\n📍 weeronline.nl
+SUMMARY:🌦️ 27°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 27°C (voelt als
+  28°C)\n💨 Wind: NO 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-ind
+ ex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-16-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
- ls 26°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-
- index: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 26°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 26°C (voelt als
+  26°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-17-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
-  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.4mm (70%)\n☀️ UV-in
+SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
+  26°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-18-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.9mm (60%)\n☀️ UV-in
- dex: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.2mm (70%)\n☀️ UV-in
+ dex: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-19-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
+SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
+  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-in
+ dex: 3\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-20-schagen-weeronline@cal
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🌧️ 23°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
+  24°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 4.3mm (85%)\n☀️ UV-in
+ dex: 3\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-21-schagen-weeronline@cal
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
 SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-in
+  24°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-in
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260704T081419Z
-LAST-MODIFIED:20260704T081419Z
+DTSTAMP:20260706T080005Z
+LAST-MODIFIED:20260706T080005Z
 END:VEVENT
 END:VCALENDAR
