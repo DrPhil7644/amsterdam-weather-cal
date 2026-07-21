@@ -680,27 +680,29 @@ BEGIN:VEVENT
 UID:2026-07-21-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-SUMMARY:⛅ 21°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 21°C (voelt a
- ls 17°C)\n💨 Wind: NNW 4 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Laag
-  — grassen\, bijvoet\, weegbree\n📍 weeronline.nl
+SUMMARY:⛅ 20°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 20°C (voelt a
+ ls 17°C)\n💨 Wind: NW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
+  6\n🌾 Hooikoorts: Laag — grassen\, bijvoet\, weegbree\n📍 weeronlin
+ e.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-22-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:☁️ 19°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
- ls 17°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-i
- ndex: 4\n🌾 Hooikoorts: Laag — weegbree\n📍 weeronline.nl
+SUMMARY:☁️ 20°C · Uitgestrekte wolkenvelden\, amper zon
+DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 20°C (voelt a
+ ls 17°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 0.6mm (15%)\n☀️ UV-i
+ ndex: 4\n🌾 Hooikoorts: Laag — grassen\, bijvoet\, weegbree\n📍 weer
+ online.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-23-leiden-weeronline@cal
@@ -708,64 +710,64 @@ DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:☁️ 19°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
- ls 17°C)\n💨 Wind: NNW 4 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-i
- ndex: 4\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
+ ls 17°C)\n💨 Wind: NNW 4 bft\n🌧️ Neerslag: 0.3mm (5%)\n☀️ UV-i
+ ndex: 3\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-24-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:⛅ 22°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
+SUMMARY:☁️ 22°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
- ls 25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-i
- ndex: 4\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
+ ls 24°C)\n💨 Wind: W 2 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 
+ 5\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:⛅ 23°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
+SUMMARY:☁️ 23°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
- ls 25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-
- index: 4\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
+ ls 25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-in
+ dex: 5\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-26-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  24°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-inde
- x: 3\n🌾 Hooikoorts: Laag — bijvoet\, weegbree\n📍 weeronline.nl
+SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
+  23°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 4.6mm (85%)\n☀️ UV-inde
+ x: 4\n🌾 Hooikoorts: Laag — bijvoet\, weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-27-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:🌧️ 22°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.0mm (80%)\n☀️ UV-inde
- x: 4\n📍 weeronline.nl
+SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
+  24°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.4mm (80%)\n☀️ UV-inde
+ x: 5\n🌾 Hooikoorts: Laag — bijvoet\, weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-28-leiden-weeronline@cal
@@ -773,102 +775,115 @@ DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  18°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-inde
- x: 4\n📍 weeronline.nl
+  24°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-inde
+ x: 5\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:🌧️ 22°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 22°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.6mm (80%)\n☀️ UV-inde
- x: 4\n📍 weeronline.nl
+  18°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-inde
+ x: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:🌧️ 22°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 22°C (voelt als
-  24°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.9mm (85%)\n☀️ UV-inde
- x: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
+  25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:🌦️ 23°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 23°C (voelt als
-  25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.4mm (70%)\n☀️ UV-inde
- x: 4\n📍 weeronline.nl
+SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-01-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
-  25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-inde
- x: 4\n📍 weeronline.nl
+SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-02-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 25°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
- index: 4\n📍 weeronline.nl
+SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
+  26°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-03-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
-  26°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-in
+SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-in
  dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-04-leiden-weeronline@cal
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 26°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-i
- ndex: 3\n📍 weeronline.nl
+SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-in
+ dex: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260720T080005Z
-LAST-MODIFIED:20260720T080005Z
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-05-leiden-weeronline@cal
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:⛅ 27°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 27°C (voelt a
+ ls 27°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-i
+ ndex: 4\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260721T080012Z
+LAST-MODIFIED:20260721T080012Z
 END:VEVENT
 END:VCALENDAR
