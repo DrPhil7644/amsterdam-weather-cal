@@ -944,14 +944,14 @@ BEGIN:VEVENT
 UID:2026-08-05-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:☁️ 26°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 27°C)\n💨 Wind: WZW 4 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Hoog
-  — bijvoet\n📍 weeronline.nl
+SUMMARY:☁️ 25°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 0.1mm (5%)\n☀️ UV-i
+ ndex: 5\n🌾 Hooikoorts: Hoog — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-06-odijk-weeronline@cal
@@ -963,99 +963,99 @@ DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 22°C (voelt a
  — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:⛅ 23°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
- ls 18°C)\n💨 Wind: W 2 bft\n☀️ UV-index: 3\n🌾 Hooikoorts: Hoog 
- — bijvoet\n📍 weeronline.nl
+SUMMARY:⛅ 24°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
+ ls 18°C)\n💨 Wind: NNW 2 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Hoog
+  — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-08-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 26°C)\n💨 Wind: Z 2 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Hoog 
- — bijvoet\n📍 weeronline.nl
+SUMMARY:☀️ 27°C · Stralend zonnig weer · 🤧 Hoog
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 27°C (voelt als 27°C)\n💨 W
+ ind: ZO 2 bft\n☀️ UV-index: 6\n🌾 Hooikoorts: Hoog — bijvoet\n📍
+  weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-09-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:🌤️ 27°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 27°C (voelt a
- ls 27°C)\n💨 Wind: WZW 2 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-
- index: 5\n🌾 Hooikoorts: Hoog — bijvoet\n📍 weeronline.nl
+SUMMARY:🌦️ 27°C · Stevige buien met een enkele keer onweer · 🌾 M
+ atig
+DESCRIPTION:Stevige buien met een enkele keer onweer\n\n🌡️ 27°C (voel
+ t als 27°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.9mm (60%)\n☀️ 
+ UV-index: 5\n🌾 Hooikoorts: Matig — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-10-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 26°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-i
- ndex: 4\n🌾 Hooikoorts: Hoog — bijvoet\n📍 weeronline.nl
+SUMMARY:🌤️ 25°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-
+ index: 5\n🌾 Hooikoorts: Hoog — bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-11-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-SUMMARY:🌤️ 26°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 26°C (voelt a
- ls 26°C)\n💨 Wind: N 2 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-ind
- ex: 5\n📍 weeronline.nl
+SUMMARY:☀️ 26°C · Stralend zonnig weer · 🤧 Hoog
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 26°C (voelt als 26°C)\n💨 W
+ ind: ONO 2 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Hoog — bijvoet\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-12-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:🌤️ 27°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 27°C (voelt a
- ls 27°C)\n💨 Wind: NO 2 bft\n🌧️ Neerslag: 0.3mm (5%)\n☀️ UV-in
- dex: 3\n📍 weeronline.nl
+SUMMARY:☀️ 30°C · Stralend zonnig weer
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 30°C (voelt als 29°C)\n💨 W
+ ind: ZO 2 bft\n☀️ UV-index: 5\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-13-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:🌤️ 28°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 28°C (voelt a
- ls 28°C)\n💨 Wind: OZO 2 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-
- index: 3\n📍 weeronline.nl
+SUMMARY:🌤️ 30°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 30°C (voelt a
+ ls 29°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.4mm (15%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-14-odijk-weeronline@cal
@@ -1063,76 +1063,89 @@ DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:🌤️ 27°C · Geregeld zon\, maar ook enkele wolken
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 27°C (voelt a
- ls 27°C)\n💨 Wind: WNW 2 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-
- index: 3\n📍 weeronline.nl
+ ls 27°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-
+ index: 4\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:🌦️ 26°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 26°C (voelt als
-  26°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-ind
- ex: 3\n📍 weeronline.nl
+SUMMARY:☁️ 25°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 25°C (voelt a
+ ls 26°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-
+ index: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-16-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-SUMMARY:🌦️ 26°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 26°C (voelt als
-  26°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-in
- dex: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
+  26°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:🌧️ 25°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
-  26°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.1mm (80%)\n☀️ UV-inde
- x: 3\n📍 weeronline.nl
+SUMMARY:🌧️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.7mm (80%)\n☀️ UV-inde
+ x: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
-  26°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.9mm (75%)\n☀️ UV-inde
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-inde
  x: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19-odijk-weeronline@cal
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-SUMMARY:⛅ 23°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 23°C (voelt a
- ls 18°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-in
+SUMMARY:🌦️ 24°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 24°C (voelt als
+  25°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-ind
+ ex: 3\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-20-odijk-weeronline@cal
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🌦️ 21°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
+  16°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-in
  dex: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260804T080005Z
-LAST-MODIFIED:20260804T080005Z
+DTSTAMP:20260805T080746Z
+LAST-MODIFIED:20260805T080746Z
 END:VEVENT
 END:VCALENDAR
