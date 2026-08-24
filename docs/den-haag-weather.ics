@@ -984,13 +984,13 @@ UID:2026-08-24-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:☀️ 22°C · Stralend zonnig weer · 🌾 Matig
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 22°C (voelt als 17°C)\n💨 W
- ind: O 3 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Matig — ambrosia\, bi
- jvoet\n📍 weeronline.nl
+DESCRIPTION:Stralend zonnig weer\n\n🌡️ 22°C (voelt als 16°C)\n💨 W
+ ind: ONO 4 bft\n☀️ UV-index: 5\n🌾 Hooikoorts: Matig — ambrosia\, 
+ bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25-den-haag-weeronline@cal
@@ -999,12 +999,12 @@ DTEND;VALUE=DATE:20260826
 SUMMARY:🌤️ 24°C · Geregeld zon\, maar ook enkele wolken · 🌾 Mati
  g
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 24°C (voelt a
- ls 26°C)\n💨 Wind: O 4 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-in
- dex: 3\n🌾 Hooikoorts: Matig — ambrosia\, bijvoet\n📍 weeronline.nl
+ ls 26°C)\n💨 Wind: O 4 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 
+ 5\n🌾 Hooikoorts: Matig — ambrosia\, bijvoet\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-den-haag-weeronline@cal
@@ -1012,12 +1012,12 @@ DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:🌦️ 25°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 25°C (voelt als
-  26°C)\n💨 Wind: ZZO 3 bft\n🌧️ Neerslag: 2.6mm (75%)\n☀️ UV-in
- dex: 3\n🌾 Hooikoorts: Laag — bijvoet\, weegbree\n📍 weeronline.nl
+  26°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-inde
+ x: 3\n🌾 Hooikoorts: Laag — bijvoet\, weegbree\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27-den-haag-weeronline@cal
@@ -1025,12 +1025,12 @@ DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:🌧️ 25°C · Stevige buien met een enkele keer onweer
 DESCRIPTION:Stevige buien met een enkele keer onweer\n\n🌡️ 25°C (voel
- t als 25°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 8.9mm (95%)\n☀️ UV
- -index: 3\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
+ t als 26°C)\n💨 Wind: ZZO 3 bft\n🌧️ Neerslag: 8.0mm (95%)\n☀️ 
+ UV-index: 4\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28-den-haag-weeronline@cal
@@ -1038,25 +1038,25 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:🌧️ 21°C · Zware regenbuien\, maar soms ook zon
 DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 21°C (voelt al
- s 21°C)\n💨 Wind: ZZW 5 bft\n🌧️ Neerslag: 10.2mm (95%)\n☀️ UV-
- index: 3\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
+ s 21°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 23.8mm (100%)\n☀️ UV-
+ index: 2\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-SUMMARY:🌧️ 20°C · Zware regenbuien\, maar soms ook zon
-DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 20°C (voelt al
- s 17°C)\n💨 Wind: WZW 5 bft\n🌧️ Neerslag: 10.5mm (95%)\n☀️ UV-
- index: 3\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  18°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 9.1mm (95%)\n☀️ UV-in
+ dex: 3\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-30-den-haag-weeronline@cal
@@ -1064,12 +1064,12 @@ DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 7.1mm (90%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+  23°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 6.7mm (90%)\n☀️ UV-ind
+ ex: 3\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31-den-haag-weeronline@cal
@@ -1077,38 +1077,38 @@ DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  18°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 6.9mm (90%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+  18°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 6.6mm (90%)\n☀️ UV-in
+ dex: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.6mm (90%)\n☀️ UV-in
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.2mm (90%)\n☀️ UV-in
  dex: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 4.7mm (85%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 6.2mm (90%)\n☀️ UV-inde
+ x: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-den-haag-weeronline@cal
@@ -1116,12 +1116,12 @@ DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.1mm (85%)\n☀️ UV-in
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.6mm (90%)\n☀️ UV-in
  dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-den-haag-weeronline@cal
@@ -1129,12 +1129,12 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.0mm (85%)\n☀️ UV-in
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.5mm (85%)\n☀️ UV-in
  dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-den-haag-weeronline@cal
@@ -1142,24 +1142,50 @@ DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.7mm (85%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+  17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 4.0mm (85%)\n☀️ UV-inde
+ x: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-SUMMARY:🌦️ 20°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.7mm (85%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260822T080008Z
-LAST-MODIFIED:20260822T080008Z
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-07-den-haag-weeronline@cal
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.3mm (90%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-den-haag-weeronline@cal
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
+  16°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 2.5mm (70%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260824T080006Z
+LAST-MODIFIED:20260824T080006Z
 END:VEVENT
 END:VCALENDAR
