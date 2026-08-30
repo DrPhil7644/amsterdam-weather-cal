@@ -1244,92 +1244,92 @@ BEGIN:VEVENT
 UID:2026-08-30-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  19°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 9.4mm (95%)\n☀️ UV-in
- dex: 4\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Stevige buien met fors onweer
+DESCRIPTION:Stevige buien met fors onweer\n\n🌡️ 20°C (voelt als 20°C
+ )\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 14.6mm (95%)\n☀️ UV-index: 
+ 5\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:🌧️ 19°C · Zware regenbuien\, maar soms ook zon
-DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 19°C (voelt al
- s 17°C)\n💨 Wind: WZW 5 bft\n🌧️ Neerslag: 11.6mm (95%)\n☀️ UV-
- index: 3\n🌾 Hooikoorts: Geen\n📍 weeronline.nl
+SUMMARY:🌧️ 18°C · Bewolkt en gestage regenval
+DESCRIPTION:Bewolkt en gestage regenval\n\n🌡️ 18°C (voelt als 17°C)\
+ n💨 Wind: W 5 bft\n🌧️ Neerslag: 20.0mm (100%)\n☀️ UV-index: 4\n
+ 🌾 Hooikoorts: Geen\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:⛅ 20°C · Geregeld zon\, maar ook enkele wolken · 🌾 Matig
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 20°C (voelt a
- ls 17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 1.0mm (35%)\n☀️ UV-in
- dex: 4\n🌾 Hooikoorts: Matig — ambrosia\n📍 weeronline.nl
+SUMMARY:⛅ 19°C · Geregeld zon\, maar ook enkele wolken · 🤧 Hoog
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
+ ls 17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-in
+ dex: 4\n🌾 Hooikoorts: Hoog — ambrosia\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.1mm (90%)\n☀️ UV-in
- dex: 3\n📍 weeronline.nl
+SUMMARY:🌦️ 21°C · Bewolkt\, grijs en druilerig
+DESCRIPTION:Bewolkt\, grijs en druilerig\n\n🌡️ 21°C (voelt als 18°C)
+ \n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 2.2mm (70%)\n☀️ UV-index: 3\n
+ 🌾 Hooikoorts: Laag — ambrosia\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  18°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 7.9mm (95%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 21°C · Bewolkt en enige tijd regen
+DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 21°C (voelt als 21°C)\
+ n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.7mm (85%)\n☀️ UV-index: 2\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:🌧️ 21°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  21°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 5.4mm (90%)\n☀️ UV-inde
+SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
+  18°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 5.6mm (90%)\n☀️ UV-inde
  x: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-SUMMARY:🌦️ 20°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  18°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+  17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.3mm (80%)\n☀️ UV-inde
+ x: 2\n🌾 Hooikoorts: Laag — ambrosia\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06-schagen-weeronline@cal
@@ -1337,77 +1337,77 @@ DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:🌦️ 21°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
-  17°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.2mm (40%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+  18°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.1mm (40%)\n☀️ UV-ind
+ ex: 3\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  17°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 4.0mm (85%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+SUMMARY:🌦️ 21°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
+  17°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 2.2mm (65%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  16°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 6.8mm (90%)\n☀️ UV-in
- dex: 2\n📍 weeronline.nl
+SUMMARY:🌦️ 21°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 21°C (voelt als
+  17°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 2.8mm (75%)\n☀️ UV-ind
+ ex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  16°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 4.8mm (85%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  17°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 5.7mm (90%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  16°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.6mm (80%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  16°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 4.8mm (85%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  16°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.7mm (80%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
+  16°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.0mm (85%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-schagen-weeronline@cal
@@ -1415,11 +1415,37 @@ DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:🌧️ 19°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  16°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.2mm (80%)\n☀️ UV-inde
+  16°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 4.4mm (85%)\n☀️ UV-inde
  x: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260829T080005Z
-LAST-MODIFIED:20260829T080005Z
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-schagen-weeronline@cal
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
+  16°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-inde
+ x: 2\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-schagen-weeronline@cal
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
+  16°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20260830T080008Z
+LAST-MODIFIED:20260830T080008Z
 END:VEVENT
 END:VCALENDAR
