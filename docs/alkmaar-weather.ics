@@ -1697,14 +1697,14 @@ BEGIN:VEVENT
 UID:2026-10-01-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:🌧️ 20°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 20°C (voelt als
-  17°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 4.0mm (85%)\n☀️ UV-inde
- x: 2\n📍 weeronline.nl
+SUMMARY:🌧️ 19°C · Bewolkt en enige tijd regen
+DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 19°C (voelt als 18°C)\
+ n💨 Wind: W 3 bft\n🌧️ Neerslag: 6.5mm (90%)\n☀️ UV-index: 1\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-alkmaar-weeronline@cal
@@ -1712,12 +1712,11 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🌤️ 20°C · Geregeld zon\, maar ook enkele wolken
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 20°C (voelt a
- ls 15°C)\n💨 Wind: ZW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
-  2\n📍 weeronline.nl
+ ls 15°C)\n💨 Wind: ZW 3 bft\n☀️ UV-index: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-alkmaar-weeronline@cal
@@ -1725,103 +1724,103 @@ DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:🌤️ 20°C · Geregeld zon\, maar ook enkele wolken
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 20°C (voelt a
- ls 14°C)\n💨 Wind: WNW 2 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-i
- ndex: 2\n📍 weeronline.nl
+ ls 14°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-
+ index: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:⛅ 19°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
- ls 14°C)\n💨 Wind: NNO 2 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-
- index: 2\n📍 weeronline.nl
+SUMMARY:🌦️ 18°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 18°C (voelt als
+  14°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.9mm (75%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:⛅ 18°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 18°C (voelt a
- ls 14°C)\n💨 Wind: O 3 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-ind
- ex: 2\n📍 weeronline.nl
+SUMMARY:⛅ 19°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
+ ls 15°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-in
+ dex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:🌦️ 19°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 19°C (voelt als
-  15°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-inde
- x: 1\n📍 weeronline.nl
+SUMMARY:⛅ 19°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 19°C (voelt a
+ ls 15°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-i
+ ndex: 2\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:🌦️ 18°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 18°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 18°C (voelt als
-  13°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 2.3mm (70%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+  14°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.9mm (85%)\n☀️ UV-inde
+ x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:🌦️ 17°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 17°C (voelt als
-  14°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 2.9mm (75%)\n☀️ UV-ind
+SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
+  13°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 4.1mm (85%)\n☀️ UV-ind
  ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:🌦️ 17°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 17°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 17°C (voelt als
-  13°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.1mm (65%)\n☀️ UV-inde
+  13°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.2mm (80%)\n☀️ UV-inde
  x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:🌦️ 17°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 17°C (voelt als
-  13°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 2.2mm (65%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
+  13°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.4mm (80%)\n☀️ UV-inde
+ x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11-alkmaar-weeronline@cal
@@ -1829,50 +1828,63 @@ DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
-  13°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 3.5mm (80%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+  13°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.9mm (85%)\n☀️ UV-inde
+ x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
-  12°C)\n💨 Wind: NW 4 bft\n🌧️ Neerslag: 3.5mm (80%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
+  12°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 4.1mm (85%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:🌦️ 16°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
-  12°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.9mm (60%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+  12°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.5mm (80%)\n☀️ UV-inde
+ x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-alkmaar-weeronline@cal
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:⛅ 16°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 16°C (voelt a
- ls 12°C)\n💨 Wind: Z 4 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-in
+SUMMARY:🌦️ 16°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
+  12°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-in
  dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20260929T081014Z
-LAST-MODIFIED:20260929T081014Z
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-alkmaar-weeronline@cal
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:☁️ 15°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 15°C (voelt a
+ ls 12°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 0.6mm (15%)\n☀️ UV-i
+ ndex: 1\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20261001T080006Z
+LAST-MODIFIED:20261001T080006Z
 END:VEVENT
 END:VCALENDAR
