@@ -1725,51 +1725,51 @@ DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: O 3 bft\n🌧️ Neerslag: 2.4mm (70%)\n☀️ UV-inde
+  12°C)\n💨 Wind: O 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-inde
  x: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:☁️ 12°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 12°C (voelt a
- ls 3°C)\n💨 Wind: OZO 4 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-i
- ndex: 1\n📍 weeronline.nl
+SUMMARY:☁️ 13°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 13°C (voelt a
+ ls 2°C)\n💨 Wind: O 4 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:🌧️ 14°C · Bewolkt en enige tijd regen
-DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 14°C (voelt als 11°C)\
- n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 4.2mm (85%)\n☀️ UV-index: 1\n
+SUMMARY:🌦️ 13°C · Bewolkt\, grijs en druilerig
+DESCRIPTION:Bewolkt\, grijs en druilerig\n\n🌡️ 13°C (voelt als 11°C)
+ \n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 3.0mm (75%)\n☀️ UV-index: 1\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:🌧️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 6.2mm (90%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
+  11°C)\n💨 Wind: ZZW 5 bft\n🌧️ Neerslag: 5.1mm (90%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-den-haag-weeronline@cal
@@ -1777,51 +1777,51 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🌧️ 13°C · Bewolkt en gestage regenval
 DESCRIPTION:Bewolkt en gestage regenval\n\n🌡️ 13°C (voelt als 11°C)\
- n💨 Wind: ZZW 5 bft\n🌧️ Neerslag: 10.2mm (95%)\n☀️ UV-index: 0\
- n📍 weeronline.nl
+ n💨 Wind: ZW 6 bft\n🌧️ Neerslag: 10.3mm (95%)\n☀️ UV-index: 0\n
+ 📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:🌧️ 13°C · Zware regenbuien\, maar soms ook zon
-DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 13°C (voelt al
- s 10°C)\n💨 Wind: WZW 5 bft\n🌧️ Neerslag: 10.5mm (95%)\n☀️ UV-
+SUMMARY:🌧️ 12°C · Zware regenbuien\, maar soms ook zon
+DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 12°C (voelt al
+ s 10°C)\n💨 Wind: WZW 5 bft\n🌧️ Neerslag: 12.4mm (95%)\n☀️ UV-
  index: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:🌧️ 14°C · Bewolkt en enige tijd regen
-DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 14°C (voelt als 11°C)\
- n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 9.7mm (95%)\n☀️ UV-index: 0\n
- 📍 weeronline.nl
+SUMMARY:🌧️ 14°C · Zware regenbuien\, maar soms ook zon
+DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 14°C (voelt al
+ s 11°C)\n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 10.6mm (95%)\n☀️ UV-i
+ ndex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 6.0mm (90%)\n☀️ UV-ind
- ex: 0\n📍 weeronline.nl
+SUMMARY:🌧️ 14°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
+  12°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 5.6mm (90%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-den-haag-weeronline@cal
@@ -1829,25 +1829,25 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🌧️ 16°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 16°C (voelt als
-  13°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 4.4mm (85%)\n☀️ UV-in
- dex: 0\n📍 weeronline.nl
+  13°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 5.3mm (90%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 2.5mm (75%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+  12°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 3.8mm (85%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-den-haag-weeronline@cal
@@ -1855,63 +1855,76 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 3.0mm (75%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+  12°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-in
+  12°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 3.0mm (75%)\n☀️ UV-in
  dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-inde
- x: 1\n📍 weeronline.nl
+SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
+  12°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-inde
- x: 1\n📍 weeronline.nl
+SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
+  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-den-haag-weeronline@cal
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:☁️ 14°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 14°C (voelt a
- ls 11°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-in
+SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
+  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.5mm (75%)\n☀️ UV-in
  dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261018T080332Z
-LAST-MODIFIED:20261018T080332Z
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-den-haag-weeronline@cal
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
+  11°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 1.0mm (35%)\n☀️ UV-in
+ dex: 0\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20261019T080009Z
+LAST-MODIFIED:20261019T080009Z
 END:VEVENT
 END:VCALENDAR
