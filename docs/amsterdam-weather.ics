@@ -1960,38 +1960,38 @@ DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:🌦️ 12°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 12°C (voelt als
-  2°C)\n💨 Wind: O 4 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-index
+  2°C)\n💨 Wind: O 4 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-index
  : 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:🌦️ 13°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 13°C (voelt als
-  11°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 2.6mm (75%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+SUMMARY:☁️ 13°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 13°C (voelt a
+ ls 11°C)\n💨 Wind: Z 4 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:🌧️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 4.5mm (85%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+SUMMARY:🌧️ 13°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 13°C (voelt als
+  10°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 6.5mm (90%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-amsterdam-weeronline@cal
@@ -1999,12 +1999,12 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🌧️ 13°C · Bewolkt en enige tijd regen
 DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 13°C (voelt als 11°C)\
- n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 9.4mm (95%)\n☀️ UV-index: 0\n
+ n💨 Wind: Z 5 bft\n🌧️ Neerslag: 8.9mm (95%)\n☀️ UV-index: 1\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-amsterdam-weeronline@cal
@@ -2012,12 +2012,12 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:🌧️ 12°C · Zware regenbuien\, maar soms ook zon
 DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 12°C (voelt al
- s 3°C)\n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 10.5mm (95%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+ s 10°C)\n💨 Wind: ZZW 5 bft\n🌧️ Neerslag: 12.8mm (95%)\n☀️ UV-
+ index: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25-amsterdam-weeronline@cal
@@ -2025,12 +2025,12 @@ DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:🌧️ 13°C · Zware regenbuien\, maar soms ook zon
 DESCRIPTION:Zware regenbuien\, maar soms ook zon\n\n🌡️ 13°C (voelt al
- s 11°C)\n💨 Wind: ZZW 5 bft\n🌧️ Neerslag: 10.6mm (95%)\n☀️ UV-
- index: 0\n📍 weeronline.nl
+ s 11°C)\n💨 Wind: ZW 5 bft\n🌧️ Neerslag: 11.9mm (95%)\n☀️ UV-i
+ ndex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-amsterdam-weeronline@cal
@@ -2038,12 +2038,12 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:🌧️ 14°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 5.3mm (90%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+  11°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 3.7mm (80%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-amsterdam-weeronline@cal
@@ -2051,25 +2051,25 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: ZW 4 bft\n🌧️ Neerslag: 5.4mm (90%)\n☀️ UV-ind
- ex: 0\n📍 weeronline.nl
+  12°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 5.4mm (90%)\n☀️ UV-in
+ dex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:🌧️ 15°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  12°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 3.3mm (80%)\n☀️ UV-in
+SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
+  12°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 2.6mm (75%)\n☀️ UV-in
  dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-amsterdam-weeronline@cal
@@ -2077,12 +2077,12 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🌦️ 15°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 15°C (voelt als
-  11°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.6mm (55%)\n☀️ UV-ind
- ex: 1\n📍 weeronline.nl
+  11°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 1.7mm (60%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-amsterdam-weeronline@cal
@@ -2090,63 +2090,76 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+  11°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.9mm (65%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:☁️ 14°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 14°C (voelt a
- ls 11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-
- index: 1\n📍 weeronline.nl
+SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
+  11°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 2.8mm (75%)\n☀️ UV-in
+ dex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.7mm (60%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+SUMMARY:🌦️ 13°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 13°C (voelt als
+  10°C)\n💨 Wind: ZW 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:🌦️ 14°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 14°C (voelt als
-  11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 2.3mm (70%)\n☀️ UV-in
- dex: 1\n📍 weeronline.nl
+SUMMARY:🌦️ 13°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 13°C (voelt als
+  5°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-index
+ : 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-amsterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:☁️ 14°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 14°C (voelt a
- ls 11°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 0.6mm (20%)\n☀️ UV-
- index: 0\n📍 weeronline.nl
+SUMMARY:🌦️ 13°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 13°C (voelt als
+  5°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261019T080001Z
-LAST-MODIFIED:20261019T080001Z
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-amsterdam-weeronline@cal
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:⛅ 12°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 12°C (voelt a
+ ls 5°C)\n💨 Wind: OZO 3 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-i
+ ndex: 1\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20261020T080003Z
+LAST-MODIFIED:20261020T080003Z
 END:VEVENT
 END:VCALENDAR
