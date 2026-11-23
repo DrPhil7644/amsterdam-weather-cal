@@ -1,0 +1,41 @@
+name: Update weather calendars
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # daily, ~06:00/07:00 Amsterdam
+    - cron: "0 15 * * *"  # second refresh in the afternoon
+  workflow_dispatch:       # "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-weather
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Amsterdam
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ICS files from weeronline
+        run: python generate_ics.py
+
+      - name: Commit and push if changed
+        run: |
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes to push."
+            exit 0
+          fi
+          git -c user.name="Amsterdam Weather Bot" \
+              -c user.email="bot@amsterdam-weather" \
+              commit -m "Update weather forecast $(date +%Y-%m-%d)"
+          git push
