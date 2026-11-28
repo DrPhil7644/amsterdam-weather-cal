@@ -2383,14 +2383,14 @@ BEGIN:VEVENT
 UID:2026-11-28-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:🌤️ 2°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 2°C (voelt al
- s -9°C)\n💨 Wind: ZZO 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
+SUMMARY:🌤️ 3°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 3°C (voelt al
+ s -7°C)\n💨 Wind: ZZO 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
   0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-rotterdam-weeronline@cal
@@ -2398,38 +2398,38 @@ DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:🌧️ 5°C · Bewolkt en enige tijd regen
 DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 5°C (voelt als -3°C)\n
- 💨 Wind: Z 3 bft\n🌧️ Neerslag: 5.6mm (90%)\n☀️ UV-index: 0\n
+ 💨 Wind: Z 3 bft\n🌧️ Neerslag: 7.1mm (90%)\n☀️ UV-index: 0\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:⛅ 7°C · Nevelig of sluierwolken\, maar ook zon
-DESCRIPTION:Nevelig of sluierwolken\, maar ook zon\n\n🌡️ 7°C (voelt a
- ls -2°C)\n💨 Wind: ZZW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index
- : 0\n📍 weeronline.nl
+SUMMARY:☁️ 7°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 7°C (voelt al
+ s -2°C)\n💨 Wind: ZZW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
+  0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:☁️ 7°C · Uitgestrekte wolkenvelden\, amper zon
-DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 7°C (voelt al
- s -2°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 0.3mm (10%)\n☀️ UV-i
- ndex: 0\n📍 weeronline.nl
+SUMMARY:☁️ 7°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 7°C (voelt al
+ s -1°C)\n💨 Wind: Z 4 bft\n🌧️ Neerslag: 0.7mm (25%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-rotterdam-weeronline@cal
@@ -2437,103 +2437,103 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🌧️ 9°C · Bewolkt en enige tijd regen
 DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 9°C (voelt als 1°C)\n
- 💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 4.6mm (85%)\n☀️ UV-index: 0\n
+ 💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 7.2mm (90%)\n☀️ UV-index: 0\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:☀️ 10°C · Stralend zonnig weer
-DESCRIPTION:Stralend zonnig weer\n\n🌡️ 10°C (voelt als 2°C)\n💨 Wi
- nd: WNW 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-index: 0\n📍 wee
- ronline.nl
+SUMMARY:⛅ 10°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 10°C (voelt a
+ ls 3°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-i
+ ndex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:⛅ 9°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 9°C (voelt al
- s 2°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-in
- dex: 0\n📍 weeronline.nl
+SUMMARY:⛅ 7°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 7°C (voelt al
+ s 1°C)\n💨 Wind: WZW 2 bft\n🌧️ Neerslag: 0.1mm (5%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:☁️ 8°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 8°C (voelt al
- s 2°C)\n💨 Wind: WZW 2 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-in
- dex: 0\n📍 weeronline.nl
+SUMMARY:⛅ 5°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 5°C (voelt al
+ s 0°C)\n💨 Wind: ZZO 2 bft\n🌧️ Neerslag: 0.2mm (5%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:🌦️ 8°C · Bewolkt\, grijs en druilerig
-DESCRIPTION:Bewolkt\, grijs en druilerig\n\n🌡️ 8°C (voelt als 1°C)\n
- 💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-index: 0\n
- 📍 weeronline.nl
+SUMMARY:☁️ 5°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 5°C (voelt al
+ s -1°C)\n💨 Wind: ZZO 2 bft\n🌧️ Neerslag: 0.4mm (10%)\n☀️ UV-i
+ ndex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:☁️ 8°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 8°C (voelt al
- s 1°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.0mm (30%)\n☀️ UV-in
- dex: 0\n📍 weeronline.nl
+SUMMARY:☁️ 6°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 6°C (voelt al
+ s -2°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-i
+ ndex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:🌦️ 8°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 8°C (voelt als 
- 0°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 2.9mm (75%)\n☀️ UV-inde
- x: 0\n📍 weeronline.nl
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
+ -1°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.7mm (60%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-rotterdam-weeronline@cal
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ 0°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 3.2mm (80%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-rotterdam-weeronline@cal
@@ -2541,12 +2541,12 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 3.0mm (75%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ -1°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 1.4mm (50%)\n☀️ UV-index
+ : 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-rotterdam-weeronline@cal
@@ -2554,12 +2554,12 @@ DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ 0°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 2.8mm (75%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-rotterdam-weeronline@cal
@@ -2567,11 +2567,24 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.2mm (65%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ -1°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230835Z
-LAST-MODIFIED:20261127T230835Z
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-rotterdam-weeronline@cal
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
+ -1°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.4mm (45%)\n☀️ UV-ind
+ ex: 0\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20261128T134809Z
+LAST-MODIFIED:20261128T134809Z
 END:VEVENT
 END:VCALENDAR

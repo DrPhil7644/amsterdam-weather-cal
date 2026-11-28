@@ -2330,53 +2330,53 @@ BEGIN:VEVENT
 UID:2026-11-28-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:☁️ 2°C · Geregeld zon\, maar ook enkele wolken
+SUMMARY:🌤️ 2°C · Geregeld zon\, maar ook enkele wolken
 DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 2°C (voelt al
- s -8°C)\n💨 Wind: ZO 4 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 
+ s -7°C)\n💨 Wind: ZO 4 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 
  0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:🌧️ 5°C · Bewolkt en enige tijd regen
-DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 5°C (voelt als -4°C)\n
- 💨 Wind: Z 3 bft\n🌧️ Neerslag: 5.0mm (90%)\n☀️ UV-index: 0\n
+SUMMARY:🌧️ 4°C · Bewolkt en enige tijd regen
+DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 4°C (voelt als -4°C)\n
+ 💨 Wind: Z 3 bft\n🌧️ Neerslag: 8.5mm (95%)\n☀️ UV-index: 0\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:☁️ 8°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 8°C (voelt al
- s -1°C)\n💨 Wind: ZZW 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index:
-  0\n📍 weeronline.nl
+SUMMARY:☁️ 7°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 7°C (voelt al
+ s -1°C)\n💨 Wind: Z 3 bft\n🌦️ Neerslagkans: 5%\n☀️ UV-index: 0
+ \n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:☁️ 7°C · Uitgestrekte wolkenvelden\, amper zon
-DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 7°C (voelt al
- s -3°C)\n💨 Wind: Z 4 bft\n🌧️ Neerslag: 0.4mm (15%)\n☀️ UV-ind
+SUMMARY:☁️ 6°C · Uitgestrekte wolkenvelden\, amper zon
+DESCRIPTION:Uitgestrekte wolkenvelden\, amper zon\n\n🌡️ 6°C (voelt al
+ s -1°C)\n💨 Wind: Z 4 bft\n🌧️ Neerslag: 1.0mm (35%)\n☀️ UV-ind
  ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-schagen-weeronline@cal
@@ -2384,129 +2384,129 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🌧️ 9°C · Bewolkt en enige tijd regen
 DESCRIPTION:Bewolkt en enige tijd regen\n\n🌡️ 9°C (voelt als 1°C)\n
- 💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 6.3mm (90%)\n☀️ UV-index: 0\n
+ 💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 9.2mm (95%)\n☀️ UV-index: 0\n
  📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:🌦️ 10°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 10°C (voelt als
-  3°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 1.0mm (35%)\n☀️ UV-ind
- ex: 0\n📍 weeronline.nl
+SUMMARY:⛅ 10°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 10°C (voelt a
+ ls 3°C)\n💨 Wind: NNW 3 bft\n🌧️ Neerslag: 0.5mm (15%)\n☀️ UV-i
+ ndex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:⛅ 9°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 9°C (voelt al
- s 3°C)\n💨 Wind: NW 3 bft\n🌧️ Neerslag: 0.7mm (20%)\n☀️ UV-ind
+SUMMARY:⛅ 8°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 8°C (voelt al
+ s 2°C)\n💨 Wind: WNW 2 bft\n🌧️ Neerslag: 0.1mm (5%)\n☀️ UV-ind
  ex: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:☁️ 9°C · Geregeld zon\, maar ook enkele wolken
-DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 9°C (voelt al
- s 3°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 0.9mm (30%)\n☀️ UV-in
- dex: 0\n📍 weeronline.nl
+SUMMARY:⛅ 6°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 6°C (voelt al
+ s 0°C)\n💨 Wind: Z 3 bft\n🌧️ Neerslag: 0.3mm (10%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:🌦️ 8°C · Bewolkt\, grijs en druilerig
-DESCRIPTION:Bewolkt\, grijs en druilerig\n\n🌡️ 8°C (voelt als 2°C)\n
- 💨 Wind: ZW 3 bft\n🌧️ Neerslag: 1.8mm (60%)\n☀️ UV-index: 0\n
- 📍 weeronline.nl
+SUMMARY:☁️ 6°C · Geregeld zon\, maar ook enkele wolken
+DESCRIPTION:Geregeld zon\, maar ook enkele wolken\n\n🌡️ 6°C (voelt al
+ s -1°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 0.8mm (25%)\n☀️ UV-i
+ ndex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:🌦️ 8°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 8°C (voelt als 
- 2°C)\n💨 Wind: WZW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-inde
- x: 0\n📍 weeronline.nl
+SUMMARY:🌦️ 6°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 6°C (voelt als 
+ -1°C)\n💨 Wind: ZZW 3 bft\n🌧️ Neerslag: 1.3mm (45%)\n☀️ UV-ind
+ ex: 1\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:🌧️ 8°C · Buien met regen\, maar soms ook zon
-DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 8°C (voelt als 
- 1°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.4mm (80%)\n☀️ UV-index:
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
+ 0°C)\n💨 Wind: W 3 bft\n🌧️ Neerslag: 2.4mm (70%)\n☀️ UV-index:
   0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:🌧️ 7°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 1°C)\n💨 Wind: WNW 4 bft\n🌧️ Neerslag: 3.6mm (80%)\n☀️ UV-inde
+ 0°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 2.9mm (75%)\n☀️ UV-inde
  x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:🌧️ 7°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 3.1mm (80%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ 0°C)\n💨 Wind: WNW 3 bft\n🌧️ Neerslag: 1.5mm (50%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-schagen-weeronline@cal
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+SUMMARY:🌧️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.3mm (70%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ 0°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 3.1mm (80%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-schagen-weeronline@cal
@@ -2514,11 +2514,24 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
 DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
- 0°C)\n💨 Wind: W 4 bft\n🌧️ Neerslag: 2.3mm (70%)\n☀️ UV-index:
-  0\n📍 weeronline.nl
+ 0°C)\n💨 Wind: WZW 4 bft\n🌧️ Neerslag: 2.7mm (75%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTSTAMP:20261127T230837Z
-LAST-MODIFIED:20261127T230837Z
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-schagen-weeronline@cal
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🌦️ 7°C · Buien met regen\, maar soms ook zon
+DESCRIPTION:Buien met regen\, maar soms ook zon\n\n🌡️ 7°C (voelt als 
+ 0°C)\n💨 Wind: ZZW 4 bft\n🌧️ Neerslag: 2.0mm (65%)\n☀️ UV-inde
+ x: 0\n📍 weeronline.nl
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTSTAMP:20261128T134810Z
+LAST-MODIFIED:20261128T134810Z
 END:VEVENT
 END:VCALENDAR
